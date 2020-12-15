@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"name": "images",
+			"path": "."
+		},
+		{
+			"name": "js",
+			"path": "..\\js"
+		},
+		{
+			"name": "libraries",
+			"path": "..\\libraries"
+		}
+	]
+}
